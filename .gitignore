@@ -1,0 +1,4 @@
+# Jetbrains Ignores
+.idea/
+atlassian-ide-plugin.xml
+*.iml
